@@ -79,3 +79,11 @@ def play_turn():
 
 # Play a single turn
 play_turn()
+
+# Your game is looking fantastic. I have a question: 
+# Why did you choose to incorporate an active variable like "dice" - 
+# active meaning color-coded in sky-blue by the programming software - 
+# into the "print" section? 
+
+# It is such a creative approach that I wish to understand from your 
+# perspective as the programmer.
